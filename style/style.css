@@ -19,6 +19,15 @@
   letter-spacing: 1.5px;
   margin: 0;
 }
+.redes{
+  background-color: aqua;
+  color: blueviolet;
+  display: block;
+  padding: 15px 25px;
+  font-weight: bolder;
+border-radius: 5px;
+border: solid black 2px;
+}
 
 .main {
   background-color: hsla(222, 14%, 15%, 0.75);
